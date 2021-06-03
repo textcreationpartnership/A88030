@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a Member of the Honourable House of Commons, speaking his humble desires of the receiving the King, without dishonourable conditions, according to his just rights, and the confirming the antient privileges of Parliament, and the liberty and propriety of the subjects according to the known fundamental laws of the nation</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88030</idno><idno type="EEBO-CITATION">99862987</idno>
+  <idno type="VID">168858</idno>
+  <idno type="EEBO-PROQUEST">2240952809</idno>
+  
+            <idno type="STC">Wing L1686</idno>
+            <idno type="STC">Thomason E1023_4</idno>
+            <idno type="STC">ESTC R202816</idno>
+            <idno type="PROQUEST">99862987</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862987e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168858)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a Member of the Honourable House of Commons, speaking his humble desires of the receiving the King, without dishonourable conditions, according to his just rights, and the confirming the antient privileges of Parliament, and the liberty and propriety of the subjects according to the known fundamental laws of the nation</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "May 5 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:168858:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>DIEV ET MON DROIT</head>
+               </figure>
+               <hi>A LETTER TO A MEMBER Of the Honourable House of Commons,</hi> Speaking his Humble Desires of the Receiving the KING, without dishonourable Conditions, according to his just Rights, and the con<g ref="char:EOLhyphen"/>firming the Antient Privileges of Par<g ref="char:EOLhyphen"/>liament, and the Liberty and Pro<g ref="char:EOLhyphen"/>priety of the Subjects according to the known Fundamental Laws of the NATION:</head>
+            <p>AFter those many Tragical Scenes of strange Governours and Governments, which have been so long acted up<g ref="char:EOLhyphen"/>on the Fatal Stage of this sad Nation, to its almost utter Subversion, and the Worlds Amazement; I can<g ref="char:EOLhyphen"/>not but Glorifie God, who out of the most gracious dispensation of his Providence, hath so wisely and mercifully dis<g ref="char:EOLhyphen"/>posed
+<pb n="2" facs="tcp:168858:2"/> your blessed convention: in which I highly congratulate the Kingdoms invaluable Happinesse, which surpriseth every loyal heart with raptures of joy, that after the severe frowns of a tedious Winter, we are now presented with the sweet smiles of an amiable Spring, and after our long Voyage on the Tem<g ref="char:EOLhyphen"/>pestuous waves of a raging Sea, we shall suddainly arrive to a safe Haven, and after the harsh howling of <hi>Lachry<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae</hi> and discord, as a foil to the Letter harmony of heretofore disagreeing judge<g ref="char:EOLhyphen"/>ment, now most firmly consenting in you, our Honourable Justices deputed to compose our grand differences in a mutual peace and settlement of the Nation.</p>
+            <p>In order to it, that you being fore-warned, may be fore-ar<g ref="char:EOLhyphen"/>med; I do most humbly desire you would be pleased to heat your Eye with your horrid transactions of the late times, which in their unparalleld violations have out done all the Tirannies and Usurpations of former Ages, and in a most impudent mockery of Justice have sacrificed our most Gracious Soveraign (after his many condiscentions, and royal recessions from his <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n honour to gratifie his people) to their most barbarous Malice and Ambi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Of whom it was said by the Bishop of <hi>Monspelier</hi> in <hi>France,</hi> when I was there, that if he had been of their Religion, he had out, shined all the Saints in their Calender. And at the reading of his most Elegant Book (translated into Dutch) a true entract of refined policy and regular piety) I saw a Jew weep in the low Countries in a compassionate resentment of his meek patience un<g ref="char:EOLhyphen"/>der the savage deportment of his cruel Enemies, most undeser<g ref="char:EOLhyphen"/>vedly acted upon him.</p>
+            <p>And if this had not been enough to satisfie their arrogance, they most inhumanely banished that great person of Honour, and Master of all Moral Virtues and Christian graces, the just Heir of the Crown, and his Royal Relations, being ashamed to see them they had so highly injured; and to complete their wic<g ref="char:EOLhyphen"/>kednesse (after they had visited their Fellow Members, because they were more honest and more numerous than themselves) re<g ref="char:EOLhyphen"/>solving to take away whatsoever should give controul to their Avarice and Tyranny, they cut down those Branches of Honour, the House of Lords, pulled down those Reverend Fathers, the great Pillars of the Church, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o support it against Heresie and Scysme.</p>
+            <p>And by the advice of their Masters the Jesuits (the designers of the ruine of our truly reformed Church, and well-established State) under the fair glosses of Common Safety, Liberty, and Pro<g ref="char:EOLhyphen"/>priety, (which they meant only to themselves) they have de<g ref="char:EOLhyphen"/>stroyed and enslaved the free-born people of <hi>England,</hi> and have killed and taken possession, making themselves first Saints, and
+<pb n="3" facs="tcp:168858:2"/> then the only Proprietors of other mens Estates and Fortunes.</p>
+            <p>They pretended to vindicate the privileges of Parliament, and indeed raised the very Fundamental of it in their Arbitrary Pow<g ref="char:EOLhyphen"/>er, whereby contrary to the known Laws of the Land, they have erected High Courts of Justice, wherein they have mur<g ref="char:EOLhyphen"/>dered the Lords Anointed, and Sons of the Loyal Nobility, and divers of the Gentry and Commonalty, persons of approved pie<g ref="char:EOLhyphen"/>ty and integrity.</p>
+            <p>Under the vail of being good Husbands for the Nation, they have altered the whole frame of the best Government of the Universe, to secure themselves from the just Account the esta<g ref="char:EOLhyphen"/>blished Laws would have called them to for their due delinquen<g ref="char:EOLhyphen"/>cy, and giving it out, that Monarchy is chargeable, have rai<g ref="char:EOLhyphen"/>sed greater Sums of Money by illegal Taxes and Impositions in a Common wealth, then all the Kings have done since the Con<g ref="char:EOLhyphen"/>quest.</p>
+            <p>
+               <hi>I</hi> humbly beg your pardon for giving you the trouble of the great Eye sore of our grievous miseries, the most unfortunate product of their greater Crimes, desiring you would be pleased to act with the timely reflections of their unhandsome Errors, as so many clear <hi>mementoes</hi> to guard your selves from those dange<g ref="char:EOLhyphen"/>rous Rocks, which have most unhappily Ship-wracked us and themselves. Wherefore out of a compassionate esteem for their Souls, that have been the grand Contrivers of our Calamities, you are obliged to do Justice to the Nation, and Charity to themselves, as to give them a sight of their sins, in a sense of their sufferings, in inflicting a condign punishment upon them, that it may be recorded as a signal <hi>memorandum</hi> to deterre others by their exemplary penalty, not to render themselves guilty of the same inormities. Impunity in some Cases may be truly stiled a merciful folly, keeping the Offenders in impenitence, and giving encouragement to others to run into the same cheap Errors.</p>
+            <p>Not long since the Kingdome was haraced by the fury of the late Jun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, some of them drove <hi>Jehu</hi> like in pulling down the Gates of the City, impris<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning divers Members of the Common-Council, eminent for Religion and Loyalty, threatned to bu<g ref="char:EOLhyphen"/>ry the City in its own Ashes, so that we were brought to the brink of a great precipe, ready to be thrown down headlong, and intombed in our own ruine, had not the merciful hand of the Almighty interposed, and made his Excellency General <hi>Monk</hi> highly instrumental to rescue us from the Jaws of Death and Destruction, in putting in the Secluded Members, who by their prudence handsomely allayed the others violence, repeal<g ref="char:EOLhyphen"/>ing whatsoever was unjustly enacted by them, and to cancel the most illegal perpetuating of the Junto, issued out Writs to the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople, who have deputed you their true delegates, as persons
+<pb n="4" facs="tcp:168858:3"/> of Religion and Loyal Principles, to transact their publick con<g ref="char:EOLhyphen"/>cerns, and to repair the wide Breaches of Church and State, in the gentle closing of those bleeding Wounds, which the ruder hands of the new Statists have most barbarously made.</p>
+            <p>And now I take the freedome to tell you the desire and ex<g ref="char:EOLhyphen"/>pectation of the whole Nation is, that you would be pleased to be so just to your selves and the Kingdome; as first to complete your own Body, consisting of the three Estates, a most accom<g ref="char:EOLhyphen"/>plished policy, the best of Common-wealths, made up of the grand trade of Government, Monarchy in the King, Aristocrasie, in the Lords, and Democrasie in the Commons, by which the Royal Prerogative is asserted, and well tempered by the prudent assistance of the Lords and Commons, all degrees having a sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the conduct of the publ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck Affairs of the Nation, and there<g ref="char:EOLhyphen"/>fore they are in all reason obliged without dispute to submit to whatsoever shall be rat fied by the Kings most Excellent Ma<g ref="char:EOLhyphen"/>jesty, and the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use of Lords, as their lawful Governours, and the Commons as their Substitutors and Trustees.</p>
+            <p>It is your part therefore, to entreat the Peers of the Land (un<g ref="char:EOLhyphen"/>justly secluded by the insolent junto) whose birth-right it is, to sit in the upper house) and not to exclude any for pretend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d de<g ref="char:EOLhyphen"/>linquency, who out of principles of Honour and Conscience have served the King, which if it be a fault, most of them have most dearly paid for it, in their severe compositions, and therefore it is very reasonable after those honorable Barons have redeemed themselves and their priviledges by great sums of mony, and di<g ref="char:EOLhyphen"/>verse acts of oblivion passed, in favour of all Delinquents, that they should be admitted into their just rights, which they may claim by the Laws of the Land, as their due inheritance.</p>
+            <p>And now these streams of honour being let in, I hope the fountain will suddenly follow, the Kings most sacred Majesty, who is the lawfull head of the Parliament: It is fit therefore, he should be united to the Lords and Commons the Members of it; had he no Title of inheritance legally transmitting it to him, from a lingure discent of his royal Progenitors, his merits would seal him a lawfull Patent to it, he being much admired abroad for the proper and well propo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tioned gracefulness of his person, accompanied with a comely deportment, and accomplished with most significant language, the Herald of his sage and pious no<g ref="char:EOLhyphen"/>tions of his mind, which highly speak him a great Master of Reason and Religion.</p>
+            <p>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being endued with so much personal valour as to dare to encounter the most resolute Champion, and with so much humi<g ref="char:EOLhyphen"/>lity as to discourse the meanest person without contempt. He is so much a man as to treat himself with a freedom from passion, and so much a Gentleman a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to entertain others with an obliging can<g ref="char:EOLhyphen"/>dour
+<pb n="5" facs="tcp:168858:3"/> and compleasance; and so much a Christian as to be out of Charity with nothing, but revenge, frequently testified in give<g ref="char:EOLhyphen"/>ing his pardon to those that have highly disobliged him, ever accounting it the most heroick act to imitate our blessed Saviour, in forgiving his enemies; And he is of so even a frame of temper that he is not elevated by good successe, nor deprived by bad. In a word he is a true sonne of the Church of <hi>England,</hi> and amongst the Romanists a stout Defender of the Catholick apostolick faith. and adorned with all intellectual, moral and Theological ver<g ref="char:EOLhyphen"/>tues, which render him most accomplished both as a King and a Christian.</p>
+            <p>So that it is easy for an ordinary eye to see how much the late Junto, and their Imps the Jesuites and Phanatiques, have been enemies to the peace and prosperity of this Nation, and the true reformed Religion, in detaining this glorious person of honour the just heir from his Crown, who by his great prudence and Chri<g ref="char:EOLhyphen"/>stian moderation would have long agoe composed all difference of our Church and State, and with his high alliance with the most eminent Princes of <hi>Europe</hi> will now perfectly reconcile us to them and gain us such a forein repute, as to enrich our Nation in the advancement of our decayed Trade.</p>
+            <p>Now the eyes of the whole world are fixed on you, to see with what wisdom you will mannage your great concern of the recepti<g ref="char:EOLhyphen"/>on of our most gracious King. I hope you will have so much o<g ref="char:EOLhyphen"/>bedience for God, and loyalty for your Sovereign, as not highly to capitulate with him, nor present him with such conditions, as you in duty cannot propound, nor he in honour receive, be pleased to consider his moderation on all sides must give a period to our miseries, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> countenancing on one side the animosity of the rant<g ref="char:EOLhyphen"/>ing Royalist; nor on the other the fond vale of the rigid Pres<g ref="char:EOLhyphen"/>biterian.</p>
+            <p>His <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Father that glorious Saint and Martyr, laid down his life to preserve the priviledges of Parliament, and the just rights of the Crown, be pleased therefore not to deny him that, which cost so dear as his Fathers innocent blood, from the guilt of which, I desire God of his infinite mercy to wash this polluted Nation in the pure bath of his Sons m st precious blood, which God in justice cannot grant, except we first wash our selves in tea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontrition and make restitution to his Sonne, his immediate heir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seeing it cannot be done to himself, in possessing him with his Fathers Throne and royal dignities, without such ugly obligati<g ref="char:EOLhyphen"/>ons, as intrench upon this just person, to which the Law of God and this Nation doth entitle him.</p>
+            <p>He is under God the Protector of the Law, and how can he defend it and the priviledges of Parliament without the power of the Sword. In him resideth the supreme Authority of the Na<g ref="char:EOLhyphen"/>tion,
+<pb n="6" facs="tcp:168858:4"/> which you then take into your own hands, and in effect depose him, if you make your selves absolute masters of his Mili<g ref="char:EOLhyphen"/>tia. And be pleased to give me leave freely to tell you, the Na<g ref="char:EOLhyphen"/>tion never prosper'd since the usurpation of it, what blood and treasure hath been exhausted to gain it? what horrid violations have been acted to preserve it? and the vengeance of God (I doubt) will still hang over this Nation until it be restored to the just owner the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng.</p>
+            <p>It is no less his own inclination than his grand interest, to im<g ref="char:EOLhyphen"/>prove his power to the advantage of the Nation, as well in pro<g ref="char:EOLhyphen"/>tecting &amp; rewarding his deserving people in remunerative Justice, as in corbing and punishing stubborn Offenders in vindicative; He being sensible of other mens suffrings in his long sufferage under the severe discipline of his own, will impose nothing upon his subjects that shall not be very proportionable to their desires, and consistent with the antient privileges of Parliament, and the known Laws of the Nation, and the liberty and propriety of the Subject.</p>
+            <p>If you shall be so severe as to bereave the King of his Legal Rights before he is guilty of miscarriage in Government, which as yet he is not capable of, being not intrusted with the ma<g ref="char:EOLhyphen"/>nagery of it, you will render your selves unjust in punishing him, before he hath offended, in taking away or lessening his power of doing the Nation Justice, because others vainly fear, that their guilt hath out done his mercy, which I am confident will be more freely evidenced to them in his future Clemency, than their for<g ref="char:EOLhyphen"/>mer base actions can pretend in the least to merit.</p>
+            <p>Be pleased to consider the King (beside the honour of his Soul, which obligeth him to preserve the people committed to his care and charge) doth solemnly engage himself by Oath at his Co<g ref="char:EOLhyphen"/>ronation to Govern according to the Antient known Laws of the Nation, wherein the privileges of Parliament, and propriety of the Subject, are secured from Tyranny and Violations, do not make your selves guilty of so great a breach of Chariry, as to doom the King (of whom Foreigners of a different faith, do give so high a Character for his most honourable converse a<g ref="char:EOLhyphen"/>mong them) should so farr degenerate in his own Climate, as to cancel all principles of Nature and Religion, and forfeit his hopes of Eternal happinesse in the breach of his Oath.</p>
+            <p>Nothing is so repugnant to the Common dictates of reason, as for a person to be guilty of destroying himself, which the King must necessarily be, if in making himself absolute in power, he shall ruine his own people, whom by Oath, and the Law of God and the Nation, he is bound to protect, it being his near concern (the King and his Subjects being correlatives, or mu<g ref="char:EOLhyphen"/>tually to preserve and defend each other) to promote their
+<pb n="7" facs="tcp:168858:4"/> welfare and prosperity, which highly is ecchoed from them up<g ref="char:EOLhyphen"/>on him, his flourishing Estate thereby being involved in theirs, whence arise mutual reflections of happinesse interchangeably consisting in the Kings just Commands, and the peoples due o<g ref="char:EOLhyphen"/>bedience, which God of infinite mercy remonstrateth here with outward blessing, and hereafter with Eternal.</p>
+            <p>Pray be pleased not to importune him (contrary to his own inclinations and the principles of Justice) to ratifie h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s royal con<g ref="char:EOLhyphen"/>sent the illegall purchase of his own, and the Church, and com<g ref="char:EOLhyphen"/>monly called Delinquents lands and estates, to charge him with Sacriledg and Oppression, it being not in his own power to give away the Crown Lands, he being but a Tenant for life, much less to alienate the Church revenews, which by the pious Chari<g ref="char:EOLhyphen"/>ty of the deceased Saints are dedicated to God in the maintenance of his Priests and P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophets. Nor can he dispose of his Subjects estates (many of them being ready to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mish for want) with<g ref="char:EOLhyphen"/>out their consents, lest he make himself really guilty of taking a<g ref="char:EOLhyphen"/>way their just propriety, which by the Seditious party was only pretended in his royal Father.</p>
+            <p>Though it would be just to take away those ill gotten estates from the purchasers (they having no title to them by Law,) to warn others for the future according to that received maxime in Law; <hi>Cave<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Emp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or;</hi> yet this may be done in moderation, let them return the esta es (all the profits being justly audited) to the Church and Crown, and to private Sufferers the justs owners) the mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es principal and interest being paid which the purchasers have expended for them.</p>
+            <p>To conclude I shall ever in my meaner judgments deem it re<g ref="char:EOLhyphen"/>quisite, as well in justice to the King, as reason of State to the people, not to impose rigid conditions upon him (he being a per<g ref="char:EOLhyphen"/>son of so high honour and most obliging moderation and inge<g ref="char:EOLhyphen"/>nuity) let him enjoy his just prerogatives, which on occasion may give bounds to the Democratical power of the house of Commons, a late faction of which (the just power of the King having been disputed &amp; laid aside, in taking away the great flow<g ref="char:EOLhyphen"/>er of the Crown, the Militia from him) prevail'd so far, as first to erect their own Members, and then the house of Lords, and at last to sacrifice the King to their malice.</p>
+            <p>The Prerogative of the King is already moderated in a Parlia<g ref="char:EOLhyphen"/>mentary Government, take heed of diminishing it now, least in time it be wholy nulled, and the people inserted with too large a proportion of power, which in them will easily degene<g ref="char:EOLhyphen"/>rate into Anarchie; Be pleased to count it the best result of your most mature Counsels, inviolably to conserve the particular
+<pb n="8" facs="tcp:168858:5"/> stream of grand Interests of the Nation in the old and safe Chan<g ref="char:EOLhyphen"/>nels, to let the Parliament enjoy its Antient Privileges, and the Subjects their due Liberty and Propriety. And the Church as well regulated Episcopacy, according to the primitive Aposto<g ref="char:EOLhyphen"/>lical justitution, and the King his just rights, according to the known established Laws of the Lands, so that this Nation under his most wise and pious Government, may be truly stiled the glor of Christendome, and the envy of the world.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
